@@ -1,0 +1,25 @@
+{
+  "name": "readme_package",
+  "version": "1.0.0",
+  "description": "This is command line application to generate a good README.md.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somi-gupta/readme-generator.git"
+  },
+  "author": "Somi Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somi-gupta/readme-generator/issues"
+  },
+  "homepage": "https://github.com/somi-gupta/readme-generator#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "inquirer": "^8.0.0",
+    "turndown": "^7.0.0"
+  },
+  "devDependencies": {}
+}
