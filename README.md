@@ -21,6 +21,9 @@ README Generator using CLI.
 ## How to use website features
 - Navigate to the index.js directory <br/> - Run the script via command -  node index.js <br/> - Answer each prompt, they are README related questions. <br/> - Once finished a markdown file is generated. <br/>
 
+## Video walkthrough of how to use the application
+https://drive.google.com/file/d/1To_fUaojpqmDCjjl-DzuaxJ6nUxOidnc/view 
+
 ## Code contribution
 - https://nodejs.org/en/. <br/> - https://www.npmjs.com/ <br/> - https://stackoverflow.com/ <br/> - https://shields.io/. <br/>
 
@@ -32,7 +35,7 @@ This project is licensed under the MIT license. https://opensource.org/licenses/
 
 ## Questions
 For any questions releated to the project please contact below:
-### User Name:  'https://github.com/somi-gupta'
+### User Name:  https://github.com/somi-gupta
 ### User Email: somi.guptaa@gmail.com
 
 ---    
